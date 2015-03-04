@@ -1,0 +1,5 @@
+[mars-distance]
+checkout = git clone 'git@github.com:spacemath/mars-distance' 'mars-distance'
+
+[mars-heat-flow]
+checkout = git clone 'git@github.com:spacemath/mars-heat-flow' 'mars-heat-flow'
