@@ -1,2 +1,2 @@
 # spacemath.github.io
-Serve site.
+Space Math home page (GitHub organization spacemath).
