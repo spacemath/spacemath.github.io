@@ -1,5 +1,12 @@
 /* Element styles */
 
+body { 
+    background-image: url(../resources/images/earth.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 0px 0px; 
+}
+
 h3 {
     padding-bottom: 0px;
     margin-bottom: 0px;
