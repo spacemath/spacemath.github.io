@@ -18,7 +18,13 @@ p {
 }
 
 a {
-    color: #ddd;
+    color: #15c;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    
 }
 
 hr {
@@ -43,8 +49,8 @@ hr {
 .highlight {
 	margin-bottom: 20px;
 	padding: 5px 50px 20px 50px;
-	background: rgba(80, 80, 80, 0.7);
-	color: #dd0;
+	background: rgba(255, 255, 255, 0.8);
+	color: black;
 }
 
 .footnote {
